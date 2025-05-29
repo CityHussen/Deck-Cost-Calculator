@@ -1,0 +1,12 @@
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbprojAssemblyReference.cache
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+C:\Users\citym\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Decking Cost Calculator", "Decking Cost Calculator\Decking Cost Calculator.vbproj", "{BAB774E2-931D-416E-9286-C040433A938C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB774E2-931D-416E-9286-C040433A938C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB774E2-931D-416E-9286-C040433A938C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB774E2-931D-416E-9286-C040433A938C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB774E2-931D-416E-9286-C040433A938C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3E4E91-53CB-46C5-AFC7-6418AA1DAA5C}
+	EndGlobalSection
+EndGlobal
